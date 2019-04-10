@@ -3,6 +3,7 @@
 You can use the [editor on GitHub](https://github.com/han1399013493/han1399013493.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://github.com/han1399013493/pictures/raw/master/02_gettyimages_486199328_super_resized.jpg)
 
 ### Markdown
 
@@ -15,6 +16,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+
 - Bulleted
 - List
 
@@ -23,9 +25,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
+[Link](url) and ![Image](https://github.com/han1399013493/pictures/raw/master/02_gettyimages_486199328_super_resized.jpg)
+han1399013493
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
