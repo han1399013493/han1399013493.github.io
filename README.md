@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/han1399013493/pictures/raw/master/02_gettyimages_486199328_super_resized.jpg)
+[Link](url) and ![Image]()
 han1399013493
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
